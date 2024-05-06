@@ -1,7 +1,5 @@
 package formations_java;
 
-import java.util.Iterator;
-
 public class For {
 
 	public static void main(String[] args) {
